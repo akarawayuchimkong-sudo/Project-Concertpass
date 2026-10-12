@@ -1,0 +1,6 @@
+{
+  "name": "ConcertPass - Modern Concert Ticketing",
+  "description": "ระบบจองคิวและจำหน่ายบัตรคอนเสิร์ตแบบรวมศูนย์ เรียลไทม์ ป้องกันการจองซ้ำ พร้อมระบบผังที่นั่งโต้ตอบ ชำระเงินอัตโนมัติ และสแกน QR Code หน้างาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
